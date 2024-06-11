@@ -4,4 +4,4 @@
 
 Here is a demo of how it works:
 
-![Demo](./img/demo.gif)
+![Demo]('./src/img/demo.gif')
