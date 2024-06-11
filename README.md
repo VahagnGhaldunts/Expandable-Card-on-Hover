@@ -1,4 +1,4 @@
-## Expandable-Card-on-Hover - React
+## Expandable-Card-on-Hover
 
 ## Demo
 
